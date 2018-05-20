@@ -1,0 +1,7 @@
+/.aws_creds
+/.idea/
+/node_modules/
+/.tmp/
+/dist/
+/npm-debug.log
+*.DS_Store
